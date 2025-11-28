@@ -81,11 +81,17 @@ FRESHCART/
 
 ---
 <h2>📸 Preview UI</h2>
-Upload screenshot-mu nanti, dan aku bisa rapikan jadi tabel seperti ini:
 
-Login	Dashboard	Profile
-<img width="1912" height="846" alt="signup" src="https://github.com/user-attachments/assets/89ffdd6a-cba2-40d6-83ff-1b6cd4c432bd" >	
-<img src="URL_DASHBOARD" width="250">	<img src="URL_PROFILE" width="250">
+- Login	Dashboard	Profile
+<img width="1887" height="857" alt="perbaikan signup" src="https://github.com/user-attachments/assets/81dc1061-f216-4bd3-9cf6-23b32542bcfc" >
+<img width="1882" height="907" alt="perbaikan signin" src="https://github.com/user-attachments/assets/5087376a-6e1e-4f0a-8f8c-de68e08132d0" >
+
+- Dashboard customer
+<img src="Screenshot_28-11-2025_11249_127.0.0.1.jpeg" width="512" height="1546">
+
+- Dashboard Admin
+<img src="https://github.com/user-attachments/assets/82ec2b04-0a02-4cd9-837d-84c772cb4ae3" width="512" height="1546">
+
 
 <h2>🗺️ Roadmap</h2>
  Sistem keranjang belanja
